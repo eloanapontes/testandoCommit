@@ -87,6 +87,7 @@ public class Streaming {
     public static void main(String[] args) {
     Streaming streaming = new Streaming();
     streaming.exibirMenu();
+        System.out.println("Oii!");
     }
 
 
